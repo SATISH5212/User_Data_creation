@@ -189,4 +189,3 @@ This project is a PHP-based web application designed to collect user data and st
 
 ---
 
-You can copy and paste this text into a README file in your project repository.
