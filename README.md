@@ -1,4 +1,4 @@
-Sure! Here is the detailed README file in text format:
+
 
 ---
 
